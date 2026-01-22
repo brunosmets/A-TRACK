@@ -30,6 +30,9 @@ https://naturalcapitalalliance.stanford.edu/software/invest
 
 ## Biodiversity & ecosystem datasets
 
+- **GeoPlantNet**  
+  https://geo.plantnet.org/en
+  
 - **sPlotOpen**  
   https://idata.idiv.de/ddm/Data/ShowData/3474?version=76
 
@@ -56,9 +59,6 @@ https://naturalcapitalalliance.stanford.edu/software/invest
 - **FRAGSTATS – Documentation**  
   https://fragstats.org/index.php/documentation
 
-## Species metrics
-- **GeoPlantNet**  
-  https://geo.plantnet.org/en
 
 ---
 
