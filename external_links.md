@@ -38,6 +38,9 @@ https://naturalcapitalalliance.stanford.edu/software/invest
 
 - **Natura 2000 Viewer (EEA)**  
   https://natura2000.eea.europa.eu/
+  
+- **B-Cubed packages - indicators for biodiversity indicators, as well as invasives**
+  https://docs.b-cubed.eu/guides/b3verse/#installation
 
 ---
 
