@@ -1,7 +1,5 @@
 # External Tools and Data Sources
 
-This document lists external tools, platforms, datasets, and documentation referenced in the A-Track NIP workflow.
-
 ---
 ## General NCA/metrics
 
@@ -75,9 +73,3 @@ This document lists external tools, platforms, datasets, and documentation refer
 - **FRAGSTATS – Documentation**  
   https://fragstats.org/index.php/documentation
 
-
----
-
-## Notes
-- All links are external and publicly accessible
-- Versioning and citation guidance should be added where relevant
