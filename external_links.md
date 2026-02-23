@@ -5,18 +5,26 @@ This document lists external tools, platforms, datasets, and documentation refer
 ---
 ## General NCA/metrics
 
-**Bon in a Box**
-https://geo-bon.github.io/bon-in-a-box-pipeline-engine/ and 
-https://geo-bon.github.io/bon-in-a-box-pipeline-engine/how_to_install.html
+- **Bon in a Box**
+  https://geo-bon.github.io/bon-in-a-box-pipeline-engine/ and
+  https://geo-bon.github.io/bon-in-a-box-pipeline-engine/how_to_install.html
 
-**inVEST**
-https://naturalcapitalalliance.stanford.edu/software/invest
+- **inVEST**
+  https://naturalcapitalalliance.stanford.edu/software/invest
+
+- **ARIES for SEEA**
+  https://aries.integratedmodelling.org/project/aries-for-seea/
+
+- **INCA**
+  https://ecosystem-accounts.jrc.ec.europa.eu/
+  https://ecosystem-accounts.jrc.ec.europa.eu/inca-tool
 
 ## Habitat mapping & EO tools
 
-- **GeoPlantNet**  
+- **GeoPlantNet**
+  EUNIS maps at 50 resolution
   https://geo.plantnet.org/en
-
+  
 - **Pl@ntBERT (GitHub)**  
   https://github.com/cesar-leblanc/plantbert?tab=readme-ov-file
 
@@ -30,8 +38,10 @@ https://naturalcapitalalliance.stanford.edu/software/invest
 
 ## Biodiversity & ecosystem datasets
 
-- **GeoPlantNet**  
+- **GeoPlantNet**
+  Maps for some species indicators in Europe
   https://geo.plantnet.org/en
+  https://geo.plantnet.org/stacs/geoplantnet#/indicators/catalog.json
   
 - **sPlotOpen**  
   https://idata.idiv.de/ddm/Data/ShowData/3474?version=76
@@ -42,6 +52,9 @@ https://naturalcapitalalliance.stanford.edu/software/invest
 - **B-Cubed packages - indicators for biodiversity indicators, as well as invasives**
   https://docs.b-cubed.eu/guides/b3verse/#installation
 
+- **ARIES-NBSOIL**
+  Soil layers on ARIES platform, including indicators
+  https://nbsoil.eu/nbs-tool/aries-nbsoil-open-library/
 ---
 
 ## Nature-related risk & accounting frameworks
