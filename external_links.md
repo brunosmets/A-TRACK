@@ -17,7 +17,7 @@
   https://ecosystem-accounts.jrc.ec.europa.eu/
   https://ecosystem-accounts.jrc.ec.europa.eu/inca-tool
 
-## Habitat mapping & EO tools
+## Ecosystem mapping & EO tools
 
 - **GeoPlantNet**
   EUNIS maps at 50 resolution
@@ -31,6 +31,12 @@
 
 - **ESA WorldCover Viewer**  
   https://viewer.esa-worldcover.org/worldcover/?language=en
+
+- **GEO Global Ecosystem Atlas**  
+  https://viewer.esa-worldcover.org/worldcover/?language=en](https://globalecosystemsatlas.org/
+  Utility is currently limited, under development
+
+  
 
 ---
 
